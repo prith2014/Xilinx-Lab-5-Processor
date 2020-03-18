@@ -1,0 +1,57 @@
+Vivado Simulator 2016.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2016.4/bin/unwrapped/win64.o/xelab.exe -wto ad39b2c8fc2846b0834f92a87c78b754 --debug typical --relax --mt 2 -L xil_defaultlib -L blk_mem_gen_v8_3_5 -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot top_level_design_wrapper_behav xil_defaultlib.top_level_design_wrapper xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-1783] select index 30 into current_contents is out of bounds [/wrk/2016.4/nightly/2017_01_23_1756540/packages/customer/vivado/data/ip/xilinx/blk_mem_gen_v8_3/simulation/blk_mem_gen_v8_3.v:2419]
+WARNING: [VRFC 10-1783] select index 62 into current_contents is out of bounds [/wrk/2016.4/nightly/2017_01_23_1756540/packages/customer/vivado/data/ip/xilinx/blk_mem_gen_v8_3/simulation/blk_mem_gen_v8_3.v:2420]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package unisim.vcomponents
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package vl.vl_types
+Compiling module xil_defaultlib.glbl
+Compiling architecture behavioral of entity xil_defaultlib.clock_div_UART [clock_div_uart_default]
+Compiling architecture top_level_design_clock_div_uart_0_0_arch of entity xil_defaultlib.top_level_design_clock_div_UART_0_0 [top_level_design_clock_div_uart_...]
+Compiling architecture behavioral of entity xil_defaultlib.clock_div_VGA [clock_div_vga_default]
+Compiling architecture top_level_design_clock_div_vga_0_0_arch of entity xil_defaultlib.top_level_design_clock_div_VGA_0_0 [top_level_design_clock_div_vga_0...]
+Compiling architecture behavioral of entity xil_defaultlib.controls [controls_default]
+Compiling architecture top_level_design_controls_0_0_arch of entity xil_defaultlib.top_level_design_controls_0_0 [top_level_design_controls_0_0_de...]
+Compiling module blk_mem_gen_v8_3_5.blk_mem_gen_v8_3_5_output_stage(...
+Compiling module blk_mem_gen_v8_3_5.blk_mem_gen_v8_3_5_output_stage(...
+Compiling module blk_mem_gen_v8_3_5.blk_mem_gen_v8_3_5_softecc_outpu...
+Compiling module blk_mem_gen_v8_3_5.blk_mem_gen_v8_3_5_mem_module(C_...
+Compiling module blk_mem_gen_v8_3_5.blk_mem_gen_v8_3_5(C_FAMILY="zyn...
+Compiling module xil_defaultlib.top_level_design_blk_mem_gen_0_1
+Compiling architecture behavioral of entity xil_defaultlib.debounce [debounce_default]
+Compiling architecture top_level_design_debounce_0_0_arch of entity xil_defaultlib.top_level_design_debounce_0_0 [top_level_design_debounce_0_0_de...]
+Compiling architecture behavioral of entity xil_defaultlib.framebuffer [framebuffer_default]
+Compiling architecture top_level_design_framebuffer_0_0_arch of entity xil_defaultlib.top_level_design_framebuffer_0_0 [top_level_design_framebuffer_0_0...]
+Compiling module blk_mem_gen_v8_3_5.blk_mem_gen_v8_3_5_output_stage(...
+Compiling module blk_mem_gen_v8_3_5.blk_mem_gen_v8_3_5_output_stage(...
+Compiling module blk_mem_gen_v8_3_5.blk_mem_gen_v8_3_5_softecc_outpu...
+Compiling module blk_mem_gen_v8_3_5.blk_mem_gen_v8_3_5_mem_module(C_...
+Compiling module blk_mem_gen_v8_3_5.blk_mem_gen_v8_3_5(C_FAMILY="zyn...
+Compiling module xil_defaultlib.top_level_design_blk_mem_gen_0_0
+Compiling architecture behavioral of entity xil_defaultlib.myALU [myalu_default]
+Compiling architecture top_level_design_myalu_0_0_arch of entity xil_defaultlib.top_level_design_myALU_0_0 [top_level_design_myalu_0_0_defau...]
+Compiling architecture behavioral of entity xil_defaultlib.pixel_pusher [pixel_pusher_default]
+Compiling architecture top_level_design_pixel_pusher_0_0_arch of entity xil_defaultlib.top_level_design_pixel_pusher_0_0 [top_level_design_pixel_pusher_0_...]
+Compiling architecture behavioral of entity xil_defaultlib.regs [regs_default]
+Compiling architecture top_level_design_regs_0_0_arch of entity xil_defaultlib.top_level_design_regs_0_0 [top_level_design_regs_0_0_defaul...]
+Compiling architecture fsm of entity xil_defaultlib.uart_rx [uart_rx_default]
+Compiling architecture behavioral of entity xil_defaultlib.uart_tx [uart_tx_default]
+Compiling architecture structural of entity xil_defaultlib.uart [uart_default]
+Compiling architecture top_level_design_uart_0_0_arch of entity xil_defaultlib.top_level_design_uart_0_0 [top_level_design_uart_0_0_defaul...]
+Compiling architecture behavioral of entity xil_defaultlib.vga_ctrl [vga_ctrl_default]
+Compiling architecture top_level_design_vga_ctrl_0_0_arch of entity xil_defaultlib.top_level_design_vga_ctrl_0_0 [top_level_design_vga_ctrl_0_0_de...]
+Compiling architecture structure of entity xil_defaultlib.top_level_design [top_level_design_default]
+Compiling architecture structure of entity xil_defaultlib.top_level_design_wrapper
+Built simulation snapshot top_level_design_wrapper_behav

@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Prithvi V/Documents/Vivado/Lab5-4c/Lab5-4c.ip_user_files/bd/top_level_design/ip/top_level_design_blk_mem_gen_0_0/sim/top_level_design_blk_mem_gen_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_level_design_blk_mem_gen_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Prithvi V/Documents/Vivado/Lab5-4c/Lab5-4c.ip_user_files/bd/top_level_design/ip/top_level_design_blk_mem_gen_0_1/sim/top_level_design_blk_mem_gen_0_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_level_design_blk_mem_gen_0_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Prithvi V/Documents/Vivado/Lab5-4c/Lab5-4c.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

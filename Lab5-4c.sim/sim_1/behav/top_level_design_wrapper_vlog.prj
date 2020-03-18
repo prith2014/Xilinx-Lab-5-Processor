@@ -1,0 +1,9 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../Lab5-4c.ip_user_files/bd/top_level_design/ip/top_level_design_blk_mem_gen_0_0/sim/top_level_design_blk_mem_gen_0_0.v"
+verilog xil_defaultlib  "../../../Lab5-4c.ip_user_files/bd/top_level_design/ip/top_level_design_blk_mem_gen_0_1/sim/top_level_design_blk_mem_gen_0_1.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

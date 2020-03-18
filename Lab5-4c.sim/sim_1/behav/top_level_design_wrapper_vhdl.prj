@@ -1,0 +1,28 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../Lab5-4c.srcs/sources_1/imports/Vivado/lab5-1/lab5-1.srcs/sources_1/new/controls.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.srcs/sources_1/imports/Vivado/lab5-1/lab5-1.srcs/sources_1/new/regs.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.srcs/sources_1/imports/Vivado/lab5-1/lab5-1.srcs/sources_1/imports/Vivado/lab2-2/lab2-2.srcs/sources_1/new/myALU.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.srcs/sources_1/imports/Vivado/lab5-1/lab5-1.srcs/sources_1/imports/sources_1/imports/Prithvi V/Desktop/rx.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.srcs/sources_1/imports/Vivado/lab5-1/lab5-1.srcs/sources_1/imports/sources_1/imports/Prithvi V/Documents/Vivado/lab3-1/lab3-1.srcs/sources_1/new/tx.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.srcs/sources_1/imports/Vivado/lab5-1/lab5-1.srcs/sources_1/imports/sources_1/imports/Prithvi V/Desktop/uart.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.srcs/sources_1/imports/Vivado/lab5-1/lab5-1.srcs/sources_1/new/framebuffer.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.srcs/sources_1/imports/Vivado/Lab5-4b/Lab5-4b.srcs/sources_1/new/clock_div_UART.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.srcs/sources_1/imports/Vivado/lab5-1/lab5-1.srcs/sources_1/imports/new/debounce.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.srcs/sources_1/imports/Vivado/lab5-1/lab5-1.srcs/sources_1/imports/new/clock_div.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.srcs/sources_1/imports/Vivado/lab5-1/lab5-1.srcs/sources_1/imports/Vivado/lab4-2/lab4-2.srcs/sources_1/new/pixel_pusher.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.srcs/sources_1/imports/Vivado/lab5-1/lab5-1.srcs/sources_1/imports/new/vga_ctrl.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.ip_user_files/bd/top_level_design/ip/top_level_design_controls_0_0/sim/top_level_design_controls_0_0.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.ip_user_files/bd/top_level_design/ip/top_level_design_regs_0_0/sim/top_level_design_regs_0_0.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.ip_user_files/bd/top_level_design/ip/top_level_design_myALU_0_0/sim/top_level_design_myALU_0_0.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.ip_user_files/bd/top_level_design/ip/top_level_design_uart_0_0/sim/top_level_design_uart_0_0.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.ip_user_files/bd/top_level_design/ip/top_level_design_framebuffer_0_0/sim/top_level_design_framebuffer_0_0.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.ip_user_files/bd/top_level_design/ip/top_level_design_clock_div_UART_0_0/sim/top_level_design_clock_div_UART_0_0.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.ip_user_files/bd/top_level_design/ip/top_level_design_debounce_0_0/sim/top_level_design_debounce_0_0.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.ip_user_files/bd/top_level_design/ip/top_level_design_clock_div_VGA_0_0/sim/top_level_design_clock_div_VGA_0_0.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.ip_user_files/bd/top_level_design/ip/top_level_design_pixel_pusher_0_0/sim/top_level_design_pixel_pusher_0_0.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.ip_user_files/bd/top_level_design/ip/top_level_design_vga_ctrl_0_0/sim/top_level_design_vga_ctrl_0_0.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.ip_user_files/bd/top_level_design/hdl/top_level_design.vhd"
+vhdl xil_defaultlib  "../../../Lab5-4c.srcs/sources_1/bd/top_level_design/hdl/top_level_design_wrapper.vhd"
+
+# Do not sort compile order
+nosort
